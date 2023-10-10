@@ -1,2 +1,2 @@
 # pythonproject
-Its Machine learning Classification Algorithm
+Its a Machine learning Classification Algorithm
